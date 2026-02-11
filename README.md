@@ -1,0 +1,2 @@
+# pdf_data_aggregator_tools
+指定したフォルダ内のPDFファイルを読み込み、特定の項目を集計してCSV出力するツールです。
